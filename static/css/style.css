@@ -1,0 +1,10 @@
+body { 
+    background-color: #F0F8FF;
+  }
+
+.jumbotron {
+    background-image: url("gutheader.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(255, 6, 60);
+  }
